@@ -2,7 +2,7 @@
 
 ---
 
-## <i class="symbol" style="background-image:url(https://i.imgur.com/qPQIqTT.png);"></i> What is FLO?
+## <i style="background-image:url('https://i.imgur.com/qPQIqTT.png');"></i> What is FLO?
 FLO is a scrypt minable crypto-currency with quick transaction processing. It is based on the Bitcoin and Litecoin source code, with improvements in several areas. Florincoin also introduces a useful new feature - transaction comments. These transaction comments enable Florincoin to facilitate a number of unique applications and enhancements within the blockchain.
 
 ---
