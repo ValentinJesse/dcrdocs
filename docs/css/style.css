@@ -18,11 +18,14 @@
     font-variant: normal;
     text-transform: none;
     line-height: 1;
+/*    height:40px!important;
+    width:119px!important;*/
 
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
 
 .icon-block:before {
     content: "\e900";
@@ -38,7 +41,7 @@
 .md-header,
 .md-footer-nav,
 .md-footer-meta {
-    background-color: #0C1E3E
+    background-color: #212121;
 }
 
 /* Highlight current page in nav menu */
