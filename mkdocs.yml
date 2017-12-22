@@ -31,10 +31,9 @@ extra_css:
     - css/style.css
 pages:
 - 'Home': 'index.md'
-# - Getting Started:
-#   - "Beginner's Guide": 'getting-started/beginner-guide.md'
-#   - 'Obtaining FLO': 'getting-started/obtaining-dcr.md'
-#   - 'Using the Block Explorer': 'getting-started/using-the-block-explorer.md'
+- Getting Started:
+  - 'Obtaining FLO': 'getting-started/obtaining-flo.md'
+  - 'FLO Setup': 'getting-started/user-guides/flo-setup.md'
 
 # - Wallets:
 #     - FLO (GUI):
@@ -68,15 +67,19 @@ pages:
 #   - 'Signature Script Isolation and Fraud Proofs': 'research/signature-script-isolation-and-fraud-proofs.md'
 #   - 'Transaction Extensions': 'research/transaction-extensions.md'
 #   - 'Schnorr Signatures': 'research/schnorr-signatures.md'
-#   - 'Miscellaneous Improvements': 'research/miscellaneous-improvements.md'
+  # - 'Miscellaneous Improvements': 'research/miscellaneous-improvements.md'
 # - Contributing:
 #   - 'Contributor Compensation': 'advanced/contributor-compensation.md'
 #   - 'Contributor Projects': 'advanced/user-projects.md'
 #   - Guidelines:
 #     - 'Using GitHub': 'advanced/using-github.md'
 #     - 'Source Code Contributions': 'advanced/contributing.md'
-# - About:
-#   - 'Support Directory': 'support-directory.md'
+
+- Building Dapps:
+    - 'Flotorizer.net': 'building-dapps/flotorizer.net.md'
+
+- About:
+  - 'Support Directory': 'support-directory.md'
 #   - 'Credits': 'about/credits.md'
 #   - 'License': 'about/license.md'
 

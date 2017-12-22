@@ -18,7 +18,7 @@ FLO uses a wallet to store, transfer and receive FLO. This wallet signs every tr
 ---
 
 ## <i class="fa icon-block fa-lg"></i> What is the blockchain?
-The blockchain is the heart of FLO. It is where all transactions that take place are stored. It is similar to a bank ledger in that it records all the activity that happens when DCR are transferred. This ledger is able to confirm that new transactions are valid and that no fraud is taking place.
+The blockchain is the heart of FLO. It is where all transactions that take place are stored. It is similar to a bank ledger in that it records all the activity that happens when FLO are transferred. This ledger is able to confirm that new transactions are valid and that no fraud is taking place.
 
 Each block in the blockchain is a record of transactions that have occurred since the last block (about 40 seconds). Every computer (node) in the FLO network shares this blockchain. Nodes in the network run an algorithm many times over a block looking for a solution with a known difficulty. This process is known as "proof-of-work" mining. Once the solution is found it is broadcast to the network. The network then verifies the solution (finding the solution is very hard, but verifying it is easy) and compensate the miners with FLO for the resources used to mine the block.
 
